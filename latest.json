@@ -1,0 +1,11 @@
+{
+  "version": "3.14.1",
+  "notes": "See release notes at https://github.com/mionemedia/cc-switch/releases/tag/v3.14.1",
+  "pub_date": "2026-05-11T05:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeU1iWkdaeGpINU1iOU8weTBkbisxT0c0c1RkVzRjdlJLT1UvUm1OdjdxS0tobEV6ZTV4RGMzVS8zdmMzanF5SUZYVnJ3bGJWWUxpSVFnQVhrYzM2UXZmdFVnTHRaTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDc1OTc0CWZpbGU6Q0MgU3dpdGNoXzMuMTQuMV94NjQtc2V0dXAuZXhlCmpSNmRuMFR5ZlZrVTFGTDNQbG9hVkczSjk4M1JjRW50anpRdURwY2x2azhHSW8vd0U5VnBpVU1DZHVQSjNBeHpKZERuMVdnZmI0bEg3VUUwbHJ4Y0NBPT0K",
+      "url": "https://github.com/mionemedia/cc-switch/releases/latest/download/CC.Switch_3.14.1_x64-setup.exe"
+    }
+  }
+}
